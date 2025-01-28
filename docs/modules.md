@@ -11,6 +11,7 @@ Bookshelf is designed with modularity in mind. Features that serve a common purp
 ## 🌟 Featured Modules
 
 ```{include} _templates/featured-modules.md
+
 ```
 
 ```{toctree}
@@ -34,6 +35,7 @@ modules/random
 modules/raycast
 modules/schedule
 modules/sidebar
+modules/string
 modules/time
 modules/tree
 modules/vector
